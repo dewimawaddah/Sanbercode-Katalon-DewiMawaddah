@@ -27,9 +27,9 @@ WebUI.setText(findTestObject('SignUp/input_password'), GlobalVariable.globalPass
 
 WebUI.click(findTestObject('SignUp/btn_signup'))
 
-WebUI.verifyAlertPresent(3)
+WebUI.verifyAlertPresent(0)
 
-WebUI.delay(3)
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 
