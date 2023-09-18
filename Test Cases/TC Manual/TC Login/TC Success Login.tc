@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Success Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>306c437a-1681-477d-944a-1e3bed6401ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e0dcf33b-b91a-4228-a438-5f084837b24d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50ac44f8-f263-44e9-8ba0-d4a8e5ddec07</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.globalUserLogin</defaultValue>
+      <description></description>
+      <id>e0dcf33b-b91a-4228-a438-5f084837b24d</id>
+      <masked>false</masked>
+      <name>inputUsernameLogin</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.globalPassLogin</defaultValue>
+      <description></description>
+      <id>50ac44f8-f263-44e9-8ba0-d4a8e5ddec07</id>
+      <masked>false</masked>
+      <name>inputPasswordLogin</name>
+   </variable>
+</TestCaseEntity>
